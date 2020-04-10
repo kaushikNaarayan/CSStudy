@@ -22,7 +22,7 @@ def pop_top():
 	return r # returns element that got popped.
 
 
-print("Welcome to Queue Simple ")
+print("Welcome to Queue Simple with Git")
 
 # Assuming Stack size is 3; execute below sequence
 s = [0,0,0]
